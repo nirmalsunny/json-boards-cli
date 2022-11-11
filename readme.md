@@ -21,7 +21,7 @@ On Unix or MacOS, run:
 source <DIR>/bin/activate
 ```
 
-* `Create Virtual Environment [optional]`
+* `Install Dependencies [required]`
 ```console
 python -m pip install -r requirements.txt
 ```

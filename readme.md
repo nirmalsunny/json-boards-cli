@@ -68,7 +68,10 @@ JSON files from a given directory using the --file-path option are combined into
 ```console
 $ python app.py merge [OPTIONS]
 ```
-
+Example with custom path
+```console
+$ python app.py merge --file-path <DIR>
+```
 **Options**:
 
 * `--file-path`: Specify a valid directory of JSON files to be combined.

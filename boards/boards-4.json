@@ -1,0 +1,10 @@
+{
+  "boards": [
+    {
+      "name": "A4-200B",
+      "vendor": "Boards R Us",
+      "core": "Cortex-M4",
+      "has_wifi": false
+    }
+  ]
+}

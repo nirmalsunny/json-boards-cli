@@ -1,0 +1,10 @@
+{
+  "boards": [
+    {
+      "name": "D4-200A",
+      "vendor": "Boards R Ut",
+      "core": "Cortex-M4",
+      "has_wifi": false
+    }
+  ]
+}

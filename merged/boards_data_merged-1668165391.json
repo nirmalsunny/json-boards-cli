@@ -1,0 +1,62 @@
+{
+    "boards": [
+        {
+            "name": "B7-400F",
+            "vendor": "Boards R UA",
+            "core": "Cortex-M7",
+            "has_wifi": true
+        },
+        {
+            "name": "A4-200B",
+            "vendor": "Boards R Us",
+            "core": "Cortex-M4",
+            "has_wifi": false
+        },
+        {
+            "name": "B7-400W",
+            "vendor": "Boards R Us",
+            "core": "Cortex-M7",
+            "has_wifi": true
+        },
+        {
+            "name": "B7-400X",
+            "vendor": "Boards R Us",
+            "core": "Cortex-M7",
+            "has_wifi": true
+        },
+        {
+            "name": "D4-200S",
+            "vendor": "Boards R Us",
+            "core": "Cortex-M4",
+            "has_wifi": false
+        },
+        {
+            "name": "D4-200A",
+            "vendor": "Boards R Ut",
+            "core": "Cortex-M4",
+            "has_wifi": false
+        },
+        {
+            "name": "Low_Powea",
+            "vendor": "Tech Corp.",
+            "core": "Cortex-M0+",
+            "has_wifi": false
+        },
+        {
+            "name": "Low_Power",
+            "vendor": "Tech Corp.",
+            "core": "Cortex-M0+",
+            "has_wifi": false
+        },
+        {
+            "name": "Low_Powed",
+            "vendor": "Tech Corp...",
+            "core": "Cortex-M0+",
+            "has_wifi": false
+        }
+    ],
+    "_metadata": {
+        "total_vendors": 5,
+        "total_boards": 9
+    }
+}
